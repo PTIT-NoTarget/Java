@@ -1,0 +1,2 @@
+Employee{id='FT123', fullName='1', address='1', phoneNumber='1', typeOfEmployee='Full-time'}
+Employee{id='PT123', fullName='123', address='123', phoneNumber='123', typeOfEmployee='Part-time'}

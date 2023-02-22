@@ -1,0 +1,7 @@
+Goods{ID=0001, name='1', group='Thoi trang', price=1.0}
+Goods{ID=0002, name='2', group='Gia dung', price=2.0}
+Goods{ID=0003, name='1', group='Thoi trang', price=129.55}
+Goods{ID=0004, name='4', group='Dien may', price=44.75}
+Goods{ID=0005, name='2', group='Tieu dung', price=4.0}
+Goods{ID=0006, name='6', group='Gia dung', price=1.0}
+Goods{ID=0007, name='1', group='Thoi trang', price=1.0}

@@ -1,0 +1,2 @@
+Customer{ID=00001, fullName='456', address='', phoneNumber='', gmail=''}
+Customer{ID=00002, fullName='234', address='123', phoneNumber='123', gmail='123'}

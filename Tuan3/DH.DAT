@@ -1,0 +1,4 @@
+Order{orderID=000003, goodsID='0001', customerID='00001', employeeID='PT123', quantityOfGoods=123, localDateTime=2023-02-16T00:47:15.697545500}
+Order{orderID=000002, goodsID='0003', customerID='00002', employeeID='FT123', quantityOfGoods=123, localDateTime=2023-02-16T00:46:50.556090600}
+Order{orderID=000001, goodsID='0007', customerID='00001', employeeID='PT123', quantityOfGoods=341, localDateTime=2023-02-16T00:45:09.877601600}
+Order{orderID=000004, goodsID='0005', customerID='00001', employeeID='FT123', quantityOfGoods=1234, localDateTime=2023-02-16T00:48:22.446954500}
